@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Merry nevves from Epsom-Wells being a witty and notable relation, of a lawyers lying with a London goldsmiths wife, at Epsom, whilest the kind cuckold went for water: and the manner of the beating up of their quarters one morning early, by the lawyers wife, as they embracing each other in bed together. With the goldsmith's loving speech in vindication of his wife, to hundreds of people, there present; who conducted them out of the town with great shouts and ecchoes; and wo[r]thy of observation by the noble citizens.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50722</idno>
+            <idno type="STC">Wing M1872</idno>
+            <idno type="STC">ESTC R217819</idno>
+            <idno type="EEBO-CITATION">99829462</idno>
+            <idno type="PROQUEST">99829462</idno>
+            <idno type="VID">33902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33902)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1919:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Merry nevves from Epsom-Wells being a witty and notable relation, of a lawyers lying with a London goldsmiths wife, at Epsom, whilest the kind cuckold went for water: and the manner of the beating up of their quarters one morning early, by the lawyers wife, as they embracing each other in bed together. With the goldsmith's loving speech in vindication of his wife, to hundreds of people, there present; who conducted them out of the town with great shouts and ecchoes; and wo[r]thy of observation by the noble citizens.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Kendal, and are to be sold near the Old-Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The "r" in "worthy" failed to print.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Domestic relations --  Early works to 1800.</term>
+               <term>Husband and wife --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33902:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <p>MERRY NEVVES FROM Epſom-Wells: Being a witty and notable <hi>Relation,</hi> of a Lawyers lying with a <hi>London</hi> Goldſmiths Wife, at <hi>Epſom,</hi> whileſt the kind Cuckold went for Water: And the manner of the beating up of their Quar<g ref="char:EOLhyphen"/>ters one morning early, by the Lawyers Wife, as they lay embracing each other in Bed together.</p>
+            <p>With the <hi>Goldſmith</hi>'s loving ſpeech in Vindication of his Wife, to hundreds of People, there preſent; who conducted them out of the Town with great Shouts and Ecchoes; and wo<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thy of obſervation by the noble Citizens.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Kendal,</hi> and are to be ſold near the Old-Bayley, 1663.</p>
+            <pb facs="tcp:33902:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 33 -->
+            <pb facs="tcp:33902:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 33 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33902:3"/>
+            <!-- PDF PAGE 34 -->
+            <pb n="3" facs="tcp:33902:3"/>
+            <!-- PDF PAGE 34 -->
+            <head>MERRY NEWES FROM Epſom-VVells.</head>
+            <p>
+               <hi>CATO</hi> the Cenſor ſaid in his time, <hi>That if the World were without Women, the Converſation of men would not be exempt from the company of Gods.</hi>
+            </p>
+            <p>And a Doctor of the <hi>Jewes</hi> yielding a reaſon why the Eternal Word has ſo long time deferred its Incarnation, ſaid nothing elſe, but that the World was then repleniſhed with bad Women, and that four thouſand years were not able to furniſh out one good one, to ſerve as an Inſtrument ſuitable to the greatneſs of this Myſtery.</p>
+            <p>
+               <pb n="4" facs="tcp:33902:4"/>
+               <!-- PDF PAGE 35 -->
+Another having lived free from the Bands of Mar<g ref="char:EOLhyphen"/>riage, cauſed to be ſet on his Tomb; <hi>Vixit ſine impedi<g ref="char:EOLhyphen"/>mento: He lived without hinderance:</hi> Which was a phraſe very obſcure, to expreſs what he would ſay: Notwithſtanding it was found this hinderance, whereof he ſpake, was a Woman. This may well happen through the vice and miſery wherein the ſtate of this preſent life hath confined us: But to ſpeak generally, we muſt af<g ref="char:EOLhyphen"/>firm, had it been the beſt way to frame the World with<g ref="char:EOLhyphen"/>out a Woman, God had done it, never expecting the Advice of theſe brave <hi>Cato</hi>'s; and whoſoever endeavou<g ref="char:EOLhyphen"/>reth to condemn Marriage, though ſometimes it proves contrary to expectation, ſheweth, that he is either out of his Wits, or a publick enemy to Mankind; for true it is, that the laudable converſation of Women, renders it ſelf ſo neceſſary for Chriſtianity, that it proves a ſingu<g ref="char:EOLhyphen"/>lar means to Man's felicity and happineſs: Whereas, on the contrary, ſomthing may ariſe, to eclipſe that mu<g ref="char:EOLhyphen"/>tual love, for a time; which cannot be imputed to Mar<g ref="char:EOLhyphen"/>riage, but a depraved Nature: Therefore, whoſoever ſhall read theſe following Verſes, let him take them cautionary, for it is a catching Diſeaſe; but happy is he, who feels not the operation.</p>
+            <lg>
+               <l>THe kiſſing Play will ne're decay,</l>
+               <l>though Ladies look ſo ſtately:</l>
+               <l>I'le tell you a witty wanton Toy,</l>
+               <l>that hapned very lately.</l>
+               <l>It is a Jeſt, worth all the reſt,</l>
+               <l>which ever ſhall come after:</l>
+               <l>'Tis new and true, and fit for you,</l>
+               <l>
+                  <hi>that do drink</hi> Epſom <hi>water.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:33902:4"/>
+               <!-- PDF PAGE 35 -->
+               <l>A Citizen and his gallant Wife,</l>
+               <l>that was both gay and pretty;</l>
+               <l>And could do all things to the life,</l>
+               <l>ſhe was ſo rare and pretty:</l>
+               <l>When ſhe was kind, he could be blind,</l>
+               <l>and mind another matter:</l>
+               <l>Whil'ſt ſhe was kiſt, he could be whiſt,</l>
+               <l>
+                  <hi>and run for</hi> Epſom <hi>water.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A Lawyer that, knew what was what,</l>
+               <l>did lodge next Chamber to her;</l>
+               <l>Who by her Face, did find her Caſe,</l>
+               <l>and turn'd an amorous Wooer:</l>
+               <l>He found out what, ſhe would be at</l>
+               <l>ſo gentle was her Nature:</l>
+               <l>The Husbands Wit, was very fit</l>
+               <l>
+                  <hi>to wait, and fetch them water.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They kiſs and play, the time away,</l>
+               <l>with toſſing and with tumbling:</l>
+               <l>But now they intend, to come to th'end,</l>
+               <l>and ſtand no longer ſumbling.</l>
+               <l>The poor <hi>Cits</hi> brains, ran all on gains,</l>
+               <l>who to promote the matter,</l>
+               <l>One morning early, freſh and fairly</l>
+               <l>did run out for Water.</l>
+            </lg>
+            <lg>
+               <l>But out alas, the Citizen was</l>
+               <l>rewarded for his labour:</l>
+               <l>The Lawyer went, by free conſent</l>
+               <l>to viſitt his next Neighbour.</l>
+               <l>
+                  <pb n="6" facs="tcp:33902:5"/>
+                  <!-- PDF PAGE 36 -->
+He ſtood not long on Complement,</l>
+               <l>but aym'd his Arrow at her:</l>
+               <l>Thus many a Cuckold hath been made</l>
+               <l>
+                  <hi>by drinking</hi> Epſom <hi>water.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There they did lye, and multiply</l>
+               <l>their Kiſſes without number</l>
+               <l>The pleaſure that, they had been at</l>
+               <l>put both into a ſlumber.</l>
+               <l>A Lady which from <hi>London</hi> came,</l>
+               <l>attended by her Daughter,</l>
+               <l>Went to this houſe (that I'le not name)</l>
+               <l>
+                  <hi>to drink of</hi> Epſom <hi>water.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Doors were open, and below</l>
+               <l>there were no perſons moving;</l>
+               <l>She comes up to theſe Lovers, who</l>
+               <l>were faſt aſleep with loving:</l>
+               <l>She peeps and ſtares, and ſtamps and ſwears,</l>
+               <l>and is as mad as may be;</l>
+               <l>The Lawyer wakes, tremblus and quakes</l>
+               <l>
+                  <hi>to ſee his own ſweet-Lady.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Lawyers Wife, with furious hands</l>
+               <l>the Chamber door doth make faſt,</l>
+               <l>It griev'd her ſore, to ſee a Whore</l>
+               <l>had got away her Breakfaſt</l>
+               <l>She opes the Caſement, and ſhe calls</l>
+               <l>all People to this ſlaughter,</l>
+               <l>How moſt unluckily it falls</l>
+               <l>
+                  <hi>his Wife ſhould watch his Water.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:33902:5"/>
+               <!-- PDF PAGE 36 -->
+               <l>She ope's the door, to ſhew the whore</l>
+               <l>and through the Town runs mading,</l>
+               <l>She told them all, both great and ſmall,</l>
+               <l>of her Husbands dancing <hi>Fadding.</hi>
+               </l>
+               <l>Thus was the Lawyer out-law'd by</l>
+               <l>his wary Wife and Daughter,</l>
+               <l>The <hi>Wittall</hi> whilſt this tumult's high</l>
+               <l>
+                  <hi>comes ſneaking in with water.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Five hundred people here were met</l>
+               <l>(though early in the morning)</l>
+               <l>There could have been no lowder fret</l>
+               <l>had all the Town been burning.</l>
+               <l>The Cuckold makes a ſpeech between</l>
+               <l>(with laughing moſt pedantick)</l>
+               <l>And ſaid the Lawyers Wife had been</l>
+               <l>
+                  <hi>ſome four or five years frantick.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My Wife, quoth he, I long have had</l>
+               <l>and found her alwayes honeſt,</l>
+               <l>Though ſome there are think Women bad</l>
+               <l>whoſe carriage is the bonnieſt,</l>
+               <l>But all the rout, did laugh and ſhout</l>
+               <l>his language could not fit all:</l>
+               <l>Though ſtill he cry'd, yet they reply'd,</l>
+               <l>
+                  <hi>a Cuckold, and a Wittall.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To ſave his life, he takes his Wife,</l>
+               <l>and out of Town he trudges:</l>
+               <l>The Lawyers fact, is cenſur'd by</l>
+               <l>almoſt a thouſand Judges.</l>
+               <l>
+                  <pb n="8" facs="tcp:33902:6"/>
+                  <!-- PDF PAGE 37 -->
+They flout and fleer, they jeſt and ieas,</l>
+               <l>the Town is full of laughter,</l>
+               <l>But many of them that were there,</l>
+               <l>
+                  <hi>had padled in ſuch water.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Lawyers Wife did rant and tear,</l>
+               <l>enough to make the Sky burn:</l>
+               <l>It was no time to tarry there</l>
+               <l>he had better been at <hi>Tyburn.</hi>
+               </l>
+               <l>Away he goes, fill'd full of woes,</l>
+               <l>to think what will come after,</l>
+               <l>He that loves his life, let him keep his wife</l>
+               <l>
+                  <hi>from drinking Epſom Water,</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33902:6"/>
+            <!-- PDF PAGE 37 -->
+         </div>
+      </body>
+   </text>
+</TEI>
